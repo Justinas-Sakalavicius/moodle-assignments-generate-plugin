@@ -1,0 +1,1 @@
+# moodle-assignments-generate-plugin
